@@ -75,7 +75,7 @@ export default function Footer() {
         </div>
 
         <div className="border-t border-primary-foreground/20 pt-8 text-center text-primary-foreground/60">
-          <p>&copy; 2026 XYZ Company. All rights reserved.</p>
+          <p>&copy; Website made by Tejas </p>
         </div>
       </div>
     </footer>
